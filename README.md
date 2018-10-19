@@ -15,7 +15,7 @@ This will create the small boot partition, and install an MBR.
 Demo
 ----
 http://www.youtube.com/watch?v=QzfddDvNVv0
-[![boot2docker Demo Video](http://i.imgur.com/hIwudK3.gif)](http://www.youtube.com/watch?v=QzfddDvNVv0&hd=1)
+[![boot2docker Demo Video](http://i.imgur.com/hIwudK3.gif)](http://www.youtube.com/watch?v=QzfddDvNVv0&hd=1) [![GuardRails badge](https://badges.production.guardrails.io/moul/boot2docker.svg)](https://www.guardrails.io)
 
 How to use
 ----------
